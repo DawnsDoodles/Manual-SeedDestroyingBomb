@@ -1,2 +1,7 @@
-# Manual-SeedDestroyingBomb
-Ruin the async and lose your friends!
+# Seed Destroying Bomb (AP Manual)
+[under construction]
+
+## What Are You Searching For?
+
+
+## Play Guide
